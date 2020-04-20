@@ -1,4 +1,4 @@
-# Attempt to find any meaningful relationships between COVID-19 cases and sentiment expressed in the Ohio governor's briefings.
+### Attempt to find any meaningful relationships between COVID-19 cases and sentiment expressed in the Ohio governor's briefings.
 
 Analyze.py: Works with compiled data from Governor's briefings and NYT COVID data.
 
